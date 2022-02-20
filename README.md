@@ -80,7 +80,7 @@ in :point_up:  [Run tests without filled remote properties](#run-tests-without-f
 :arrow_right: [The launch with results for tag = main_page](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/)
 
 <p align="center">
-  <img src="images/screenshot/allureReport/JPG">
+  <img src="images/screenshot/allureReport.JPG">
 </p>
 
 :arrow_right: [The launch with results for tag = top_menu](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/#suites)
@@ -91,6 +91,9 @@ in :point_up:  [Run tests without filled remote properties](#run-tests-without-f
 
 ### Allure TestOps
 
+<p align="center">
+  <img src="images/screenshot/allureTestOps2.JPG">
+</p>
 
 <p align="center">
   <img src="images/screenshot/allureTestOps.JPG">
