@@ -1,6 +1,6 @@
 # webProject
 
-The test automation project for [Hostegram website] https://hostegram.com/
+The test automation project for https://hostegram.com/
 <p align="center">
   <img src="images/screenshot/hostegramDashboard.JPG">
 </p>
@@ -113,7 +113,7 @@ ___
 You may see the example of a video showing the test run in Allure report.
 
 <p align="center">
-  <img src="images/screenshot/telegramNotification.JPG">
+  <img src="images/video/allureVideo.mp4">
 </p>
 
 
@@ -128,7 +128,7 @@ The project is configured to send notifications about the results of launches fr
 </p>
 
 <p align="center">
-  <img src="images/screens/Telegram_passed_notification.PNG">
+  <img src="images/screenshot/telegramNotification.JPG">
 </p>
 
 
