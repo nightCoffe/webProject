@@ -110,7 +110,7 @@ ___
 You may see the example of a video showing the test run in Allure report.
 
 <p align="center">
-  <img src="images/video/allureVideo.mp4">
+  <img src="images/video/hostegram.gif">
 </p>
 
 ___
