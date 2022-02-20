@@ -1,6 +1,6 @@
-# webProject
 
-The test automation project for https://hostegram.com/
+
+#The test automation project for https://hostegram.com/
 <p align="center">
   <img src="images/screenshot/hostegramDashboard.JPG">
 </p>
