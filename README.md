@@ -62,7 +62,7 @@ The test results can be found in:
 
 ### Jenkins
 
-[Jenkins] job. (https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/)
+[Jenkins job](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/)
 
 <p align="center">
   <img src="images/screenshot/jenkinsScreen.JPG">
@@ -75,13 +75,13 @@ The test results can be found in:
 ### Allure Report
 
 
-:arrow_right: [The launch with results for tag = main_page](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/)
+:arrow_right: [The launch with results](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/)
 
 <p align="center">
   <img src="images/screenshot/allureReport.JPG">
 </p>
 
-:arrow_right: [The launch with results for tag = top_menu](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/#suites)
+:arrow_right: [The launch with results](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/#suites)
 
 <p align="center">
   <img src="images/screenshot/allureReport1.JPG">
