@@ -38,7 +38,7 @@ gradle clean test
 
 ```bash
 gradle clean test
-
+-Denvironment=${ENVIRONMENT}
 -Dbrowser=${BROWSER}
 -DbrowserVersion=${BROWSER_VERSION}
 -DbrowserSize=${BROWSER_SIZE}
