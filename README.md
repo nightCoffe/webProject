@@ -62,10 +62,6 @@ The test results can be found in:
 
 ### [Jenkins](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/)
 
-For the running autotests in Jenkins, you can specify the parameters described
-in :point_up:  [Run tests without filled remote properties](#run-tests-without-filled-remote-properties).
-
-
 <p align="center">
   <img src="images/screenshot/jenkinsScreen.JPG">
 </p>
@@ -107,7 +103,7 @@ ___
 
 ## Video with test running in Allure Report
 
-You may see the example of a video showing the test run in Allure report.
+Video the test run in Allure report.
 
 <p align="center">
   <img src="images/video/hostegram.gif">
