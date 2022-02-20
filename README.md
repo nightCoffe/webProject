@@ -5,6 +5,8 @@ The test automation project for https://hostegram.com/
   <img src="images/screenshot/hostegramDashboard.JPG">
 </p>
 
+___
+## The project technologies:
 
 <p  align="center" p>
 
@@ -25,8 +27,6 @@ The test automation project for https://hostegram.com/
 </p>
 
 ___
-
-## Run tests from terminal locally
 
 ### Run tests with filled remote properties:
 
@@ -60,7 +60,7 @@ The test results can be found in:
 + [Allure TestOps](#allure-testOps)
 
 
-### [Jenkins](https://jenkins.autotests.cloud/job/09-elenakomarova-itfinland-project-ui/build?delay=0sec)
+### [Jenkins](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/)
 
 For the running autotests in Jenkins, you can specify the parameters described
 in :point_up:  [Run tests without filled remote properties](#run-tests-without-filled-remote-properties).
@@ -70,23 +70,20 @@ in :point_up:  [Run tests without filled remote properties](#run-tests-without-f
   <img src="images/screenshot/jenkinsScreen.JPG">
 </p>
 
-Once the launch is finished you may watch statistics and open the `Allure Report` <img width="2%" title="Allure Report" src="images/logo/Allure_Report_icon.svg">
-
 <p align="center">
   <img src="images/screenshot/jenkinsScreen1.JPG">
 </p>
 
 ### Allure Report
 
-Here are the examples of a report about test build with grouping by tags (:point_up: [The list of tests grouped by tag parameter](#the-list-of-tests-grouped-by-tag-parameter))
 
-:arrow_right: [The launch with results for tag = main_page](https://jenkins.autotests.cloud/job/09-elenakomarova-itfinland-project-ui/93/allure/)
+:arrow_right: [The launch with results for tag = main_page](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/)
 
 <p align="center">
   <img src="images/screenshot/allureReport/JPG">
 </p>
 
-:arrow_right: [The launch with results for tag = top_menu](https://jenkins.autotests.cloud/job/09-elenakomarova-itfinland-project-ui/94/allure/)
+:arrow_right: [The launch with results for tag = top_menu](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/#suites)
 
 <p align="center">
   <img src="images/screenshot/allureReport1.JPG">
@@ -94,9 +91,6 @@ Here are the examples of a report about test build with grouping by tags (:point
 
 ### Allure TestOps
 
-Allure TestOps is used as a storage for all tests cases (automated and manual), launches, their results. You may watch statistic and reports by all launches and results
-
-:arrow_right: Dashboards:
 
 <p align="center">
   <img src="images/screenshot/allureTestOps.JPG">
@@ -108,7 +102,7 @@ Allure TestOps is used as a storage for all tests cases (automated and manual), 
 
 ___
 
-## Example of video with test running in Allure Report
+## Video with test running in Allure Report
 
 You may see the example of a video showing the test run in Allure report.
 
@@ -116,12 +110,9 @@ You may see the example of a video showing the test run in Allure report.
   <img src="images/video/allureVideo.mp4">
 </p>
 
-
 ___
 
 ## Notifications in Telegram channel
-
-The project is configured to send notifications about the results of launches from Jenkins to Telegram channel
 
 <p align="center">
   <img src="images/screens/Telegram_failed_notification.PNG">
