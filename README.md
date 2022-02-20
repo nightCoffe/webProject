@@ -81,7 +81,7 @@ The test results can be found in:
   <img src="images/screenshot/allureReport.JPG">
 </p>
 
-:arrow_right: [The launch with results](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/#suites)
+:arrow_right: [The launch with results](https://jenkins.autotests.cloud/job/009-nightCoffe-webProject/11/allure/#suites/44d1a197fbb6ad9fc22df4eb54d1e2ac/6b659ccc126834be/)
 
 <p align="center">
   <img src="images/screenshot/allureReport1.JPG">
